@@ -1,6 +1,6 @@
 ## 用于在 goorm上运行v2ray 
 ```shell
-wget https://raw.githubusercontent.com/byxiaopeng/goorm-v2ray/master/goormv2.sh
+wget https://github.com/565740950/goorm-v2/blob/master/goormv2.sh
 
 chmod +x goormv2.sh
 
