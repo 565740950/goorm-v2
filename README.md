@@ -28,8 +28,8 @@ path:/
 
 tls
 
-##cloudflare workers 反代
-workers 添加
+## cloudflare workers 反代
+workers删除原来的 添加
 ```shell
 addEventListener(
   "fetch",event => {
